@@ -30,6 +30,7 @@ Developed by Macs and Moriarty.
   ## Credits:
   
   Main Developer - Moriarty
+  
   Assistant Developer, Documentation Maintainer - Macs
   
 
