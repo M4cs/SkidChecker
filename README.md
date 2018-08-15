@@ -25,7 +25,7 @@ Developed by Macs and Moriarty.
   As far as we know this is the first of it's kind. There are no other checkers that are available for all platforms. On top of that this checker uses Tor for its proxy methods meaning you don't have to find/pay for proxies in order to use this. Essentially making it "proxyless" for the end-user.
   
   ## How to Use SkidChecker.
-  First you must purchase SkidChecker from https://skidchecker.com/. Once this is complete you will be able to login to SkidChecker once the program is run. From there you will be able to load your combolist and from there you just hit enter and let it work it's magic. Depending on your internet speeds and the response time between you and the Tor network your speeds may vary. However, this program is designed to run faster than all other checkers available, at least with a good internet connection.
+  First you must purchase SkidChecker from ~https://skidchecker.com/~. Once this is complete you will be able to login to SkidChecker once the program is run. From there you will be able to load your combolist and from there you just hit enter and let it work it's magic. Depending on your internet speeds and the response time between you and the Tor network your speeds may vary. However, this program is designed to run faster than all other checkers available, at least with a good internet connection.
   
   ## Credits:
   
